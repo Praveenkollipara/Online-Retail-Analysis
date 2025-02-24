@@ -25,11 +25,30 @@ The dataset we will be using contains half a million records with the following 
 - Invoice Date
 - Unit Price
 - Customer ID
+  
 
 ## Technologies Used
 - Python (for data analysis and visualization)
 - Pandas (initial data manipulation)
 - Matplotlib (visualization)
 - Google Colab (execution environment)
+
+## Data Cleaning and Feature Engineering
+### Handling Missing Data :
+- Replace missing descriptions using the most frequent description for each stock code.
+- Drop remaining rows with missing values.
+### Removing Invalid Entries :
+- Filter out negative values in quantity and unit price.
+### Feature Creation :
+To enhance our analysis, we will create new features.
+- Compute total sales as Quantity * Unit Price.
+- Extract the month from the invoice date for trend analysis.
+
+
+
+
+
+
+
 
 
