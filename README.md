@@ -18,13 +18,7 @@ This project explores a comprehensive data analysis workflow using a dataset con
 
 ## Dataset Overview
 The dataset we will be using contains half a million records with the following columns:
-- Invoice Number
-- Stock Code (Product ID)
-- Description
-- Quantity
-- Invoice Date
-- Unit Price
-- Customer ID
+
   
 
 ## Technologies Used
