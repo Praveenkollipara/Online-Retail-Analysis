@@ -28,10 +28,7 @@ The dataset we will be using contains half a million records with the following 
   
 
 ## Technologies Used
-- Python (for data analysis and visualization)
-- Pandas (initial data manipulation)
-- Matplotlib (visualization)
-- Google Colab (execution environment)
+
 
 ## Data Cleaning and Feature Engineering
 ### Handling Missing Data :
