@@ -28,6 +28,8 @@ The dataset we will be using contains half a million records with the following 
   
 
 ## Technologies Used
+- Python (for data analysis and visualization)
+- Pandas (initial data manipulation)
 
 
 ## Data Cleaning and Feature Engineering
